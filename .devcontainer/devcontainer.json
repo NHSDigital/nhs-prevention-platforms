@@ -1,5 +1,5 @@
 {
-  "name": "Service name goes here",
+  "name": "Digital health platforms",
   "portsAttributes": {
     "3000": {
       "label": "Running prototype",
